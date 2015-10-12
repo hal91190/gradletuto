@@ -81,6 +81,7 @@ Total time: 1.663 secs
 
 ### Voir aussi
 * Plugin [application](https://docs.gradle.org/current/userguide/application_plugin.html)
+* [Passer des arguments pour l'application à gradle run](http://stackoverflow.com/questions/27604283/gradle-task-pass-arguments-to-java-application)
 
 ## Intégrer les tests unitaires
 ```
